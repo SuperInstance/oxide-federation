@@ -2,6 +2,7 @@
 repository = "https://github.com/SuperInstance/oxide-federation"
 name = "oxide-federation"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 description = "Multi-node GPU cluster federation with ternary health states. Gossip health, work stealing, quorum decisions, graceful degradation."
 
